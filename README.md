@@ -1,4 +1,4 @@
-##      <img align="center" src="./assets/logo.svg" alt="Logo da NLW" />
+##    <h1 align="center">  <img  src="./assets/logo.svg" alt="Logo da NLW"/> </h1>
 
 <p align="center"> Acompanhar os jogos da fase de grupo da copa do mundo <br/>
 </p>
